@@ -1,0 +1,14 @@
+Règles de gestion 
+Les instantiations de classes 
+1-ref est généré dans le format 
+"refCCCC"
+2-tous les champs doivent etre valide 
+3-classe validator ou on définit les fonctions de validation 
+4-tous les champs doivent etre remplit 
+5-cout = prix + prix*tauxPoc
+local est une classe abstraite
+Atrribut de navigation
+
+6-//nci format du nci sénégalais 
+    1 01 20010131 00002 8 homme     
+    2 01 20001101 00001 6 femme 
